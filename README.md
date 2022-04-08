@@ -11,8 +11,8 @@
   <img align="center" alt="Docker" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
 </div>
 <br>
-<div align="center">
+<div>
   <a href="https://github.com/YanMaciel">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=YanMaciel&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YanMaciel&layout=compact&langs_count=7&theme=dark"/>
+<!--   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=YanMaciel&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> -->
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YanMaciel&layout=compact&langs_count=7&theme=dark"/>
 </div>
