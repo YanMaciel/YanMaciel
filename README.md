@@ -1,7 +1,5 @@
 <h1>Yan Maciel</h1>
 
-<p> Tech enthusiast. </p>
-
 <!-- <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
   <img align="center" alt="Kotlin" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg">
@@ -14,7 +12,7 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Docker" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
 </div> -->
-<br>
+
 <div>
   <a href="https://github.com/YanMaciel">
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=YanMaciel&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> 
